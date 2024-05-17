@@ -19,11 +19,11 @@
     <h2 style="color: red; margin-bottom: 15px;">👥 Collaborators</h2>
     <div style="margin-bottom: 10px;">
       <img src="https://via.placeholder.com/50" alt="Collaborator 1" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
-      <a href="https://github.com/collaborator1" style="color: #6c757d; text-decoration: none; font-weight: bold;">Collaborator 1</a> - UI/UX Design Wizard 🎨
+      <a href="https://github.com/collaborator1" style="color: #6c757d; text-decoration: none; font-weight: bold;">Collaborator 1</a>
     </div>
     <div style="margin-bottom: 10px;">
       <img src="https://via.placeholder.com/50" alt="Collaborator 2" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
-      <a href="https://github.com/collaborator2" style="color: #6c757d; text-decoration: none; font-weight: bold;">Collaborator 2</a> - Backend Magician 🔮
+      <a href="https://github.com/collaborator2" style="color: #6c757d; text-decoration: none; font-weight: bold;">Collaborator 2</a> 
     </div>
     <div style="margin-bottom: 10px;">
       <img src="https://via.placeholder.com/50" alt="Collaborator 3" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
