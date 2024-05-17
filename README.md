@@ -27,11 +27,11 @@
     </div>
     <div style="margin-bottom: 10px;">
       <img src="https://via.placeholder.com/50" alt="Collaborator 3" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
-      <a href="https://github.com/collaborator3" style="color: #6c757d; text-decoration: none; font-weight: bold;">Collaborator 3</a> - Frontend Guru 💻
+      <a href="https://github.com/collaborator3" style="color: #6c757d; text-decoration: none; font-weight: bold;">Collaborator 3</a>
     </div>
     <div style="margin-bottom: 10px;">
       <img src="https://via.placeholder.com/50" alt="Collaborator 4" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
-      <a href="https://github.com/collaborator4" style="color: #6c757d; text-decoration: none; font-weight: bold;">Collaborator 4</a> - Marketing Maestro 📣
+      <a href="https://github.com/collaborator4" style="color: #6c757d; text-decoration: none; font-weight: bold;">Collaborator 4</a>
     </div>
   </div>
 
